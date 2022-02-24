@@ -134,15 +134,12 @@
 
 
 ## Github Stat  
-<table><tr><td valign="top" width="50%">
+p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jangchiang&show_icons=true&locale=en&layout=compact" alt="jangchiang" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jangchiang&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jangchiang&show_icons=true&locale=en" alt="jangchiang" /></p>
 
-</td><td valign="top" width="50%">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jangchiang&" alt="jangchiang" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangchiang&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
